@@ -68,6 +68,11 @@ p {
 .project-description {
   padding: 120px 60px;
 }
+.inquiry{
+  background: var(--secondary-color);  
+  border-radius: 20px;
+  padding: 49px 10px;
+}
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
